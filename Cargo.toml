@@ -1,0 +1,6 @@
+[package]
+name = "wasm-starter"
+version = "0.1.0"
+authors = ["Adam Kelly <adamkelly2201@gmail.com>"]
+
+[dependencies]
