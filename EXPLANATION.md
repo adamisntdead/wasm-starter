@@ -1,6 +1,6 @@
-# Explination
+# Explanation
 
-This file is intended as an explination of all the parts of this starter code.
+This file is intended as an explanation of all the parts of this starter code.
 
 ## `cargo.toml`
 

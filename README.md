@@ -3,6 +3,8 @@
   WebAssembly Module Starter Code, Powered by Rust, wasm-pack, wasm-bindgen and Webpack 🔥 😍
 </p>
 
+If you want an explination of all of the code in this (rather minimal) boilerplate, check out the [Explination](https://github.com/adamisntdead/wasm-starter/blob/master/EXPLINATION.md) 
+
 ## Setup
 
 First you are gonna have to get Rust at [rust-lang.org](https://www.rust-lang.org/).
